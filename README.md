@@ -13,11 +13,11 @@ InspireTab is a Chrome extension designed to enhance your focus and motivation b
 Follow these steps to add InspireTab to your Chrome browser:
 
 1. **Clone or Download the Repository**:
-    - Clone this repository using `git clone https://github.com/yourusername/InspireTab.git` or download the ZIP file and extract it.
+    - Clone this repository using `git clone https://github.com/PKR9759/InspireTab.git` or download the ZIP file and extract it.
 
 2. **Open Chrome Extensions Page**:
     - Open your Chrome browser.
-    - Navigate to `chrome://extensions`.
+    - Navigate to `{Browser name}://extensions`. Ex: `chrome://extensions`
 
 3. **Enable Developer Mode**:
     - Toggle the switch to enable **Developer mode** in the top right corner.
@@ -33,7 +33,7 @@ Follow these steps to add InspireTab to your Chrome browser:
 ## Usage Guide 📖
 
 1. **Open InspireTab**:
-    - Click on the InspireTab icon in the Chrome toolbar.
+    - Click on the InspireTab icon in the Browsers toolbar.
 
 2. **Add a New URL and Quote**:
     - Enter the URL where you want the motivational message to appear.
@@ -44,18 +44,11 @@ Follow these steps to add InspireTab to your Chrome browser:
     - Click on the **Saved URLs** button to see a list of all URLs and their associated quotes.
     - You can edit or delete any entry from this list.
 
-## Screenshots 📸
-
-![InspireTab Popup](screenshots/popup.png)
-*InspireTab extension popup interface.*
-
-![Saved URLs](screenshots/saved_urls.png)
-*Saved URLs management page.*
 
 ## Contributing 🤝
 
-We welcome contributions! If you have any ideas, feel free to fork the repository and submit a pull request. Alternatively, you can open an issue for discussion.
+I welcome contributions! If you have any ideas, feel free to fork the repository and submit a pull request. Alternatively, you can open an issue for discussion.
 
-## License 📜
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+# Enjoy using InspireTab and stay inspired! 🚀💡
