@@ -5,8 +5,7 @@
   "description": "Display motivational sentences on specified URLs.",
   "permissions": ["storage", "activeTab", "scripting"],
   "action": {
-    "default_popup": "popup.html",
-    "default_icon": "images/icon.jpg"
+    "default_popup": "popup.html"
   },
   "content_scripts": [
     {
