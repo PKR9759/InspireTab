@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Focus Extension</title>
+    <link rel="stylesheet" href="popup.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div id="popup-container">
+        <h1>Focus Extension</h1>
+        <input type="text" id="url" placeholder="Enter URL">
+        <textarea id="sentence" placeholder="Enter motivational sentence"></textarea>
+        <button id="save">Save</button>
+        <a href="#" id="view-saved">View Saved URLs</a>
+    </div>
+
+    <div id="saved-urls-container" style="display: none;">
+        <h1>Saved URLs</h1>
+        <ul id="urlList">
+            <!-- Saved URLs will be dynamically added here -->
+        </ul>
+        <button id="back-to-main">Back</button>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

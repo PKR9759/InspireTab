@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "InspireTab",
+  "version": "1.0",
+  "description": "Display motivational sentences on specified URLs.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/icon.jpg"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
