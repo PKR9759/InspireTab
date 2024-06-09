@@ -49,6 +49,6 @@ Follow these steps to add InspireTab to your Chrome browser:
 
 I welcome contributions! If you have any ideas, feel free to fork the repository and submit a pull request. Alternatively, you can open an issue for discussion.
 
+#
 
-
-# Enjoy using InspireTab and stay inspired! 🚀💡
+## Enjoy using InspireTab and stay inspired! 🚀💡
